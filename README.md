@@ -1,5 +1,5 @@
 ## Hi there 👋
 ### Some info:
-- :computer: AGH University of Science and Technology :mortar_board:
+- :mortar_board: AGH University of Science and Technology 
 - 🔭 Working on Physicist's Toolbox.
-- Football :soccer:
+- :soccer: Football 
