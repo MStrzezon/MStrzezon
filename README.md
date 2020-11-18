@@ -4,5 +4,4 @@
 - 🔭 Working on Physicist's Toolbox.
 - :soccer: Football 
 
-<details><summary>GitHubPages</summary>
-https://mstrzezon.github.io/
+GitHub Pages: https://mstrzezon.github.io/
