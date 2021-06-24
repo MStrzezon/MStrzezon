@@ -6,4 +6,4 @@
 
 GitHub Pages: https://mstrzezon.github.io/
 
-Fork: https://github.com/MStrzezon/DeepFaceLab
+
