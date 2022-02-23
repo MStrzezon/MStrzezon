@@ -1,9 +1,7 @@
 ## Hi there 👋
-### Some info:
-- :mortar_board: AGH University of Science and Technology 
-- 🔭 Working on Physicist's Toolbox.
-- :soccer: Football 
+### My latest projects:
 
-GitHub Pages: https://mstrzezon.github.io/
+### Contact:
+mstrzezon@gmail.com
 
 
