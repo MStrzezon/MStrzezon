@@ -16,6 +16,8 @@
 
 ## Contact:
 
-mstrzezon@gmail.com
+### [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/micha%C5%82-strze%C5%BCo%C5%84-a6128a223/)
+
+### 📫 mstrzezon@gmail.com
 
 
